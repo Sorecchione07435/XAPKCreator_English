@@ -1,0 +1,24 @@
+C:\Users\Stef\AppData\Local\Temporary Projects\XAPK Creator\bin\Debug\XAPK Creator.exe.config
+C:\Users\Stef\AppData\Local\Temporary Projects\XAPK Creator\bin\Debug\XAPK Creator.exe
+C:\Users\Stef\AppData\Local\Temporary Projects\XAPK Creator\bin\Debug\XAPK Creator.pdb
+C:\Users\Stef\AppData\Local\Temporary Projects\XAPK Creator\bin\Debug\XAPK Creator.xml
+C:\Users\Stef\AppData\Local\Temporary Projects\XAPK Creator\obj\Debug\XAPK_Creator.Form1.resources
+C:\Users\Stef\AppData\Local\Temporary Projects\XAPK Creator\obj\Debug\XAPK_Creator.Resources.resources
+C:\Users\Stef\AppData\Local\Temporary Projects\XAPK Creator\obj\Debug\XAPK Creator.vbproj.GenerateResource.Cache
+C:\Users\Stef\AppData\Local\Temporary Projects\XAPK Creator\obj\Debug\XAPK Creator.exe
+C:\Users\Stef\AppData\Local\Temporary Projects\XAPK Creator\obj\Debug\XAPK Creator.xml
+C:\Users\Stef\AppData\Local\Temporary Projects\XAPK Creator\obj\Debug\XAPK Creator.pdb
+C:\Users\Stef\AppData\Local\Temporary Projects\XAPK Creator\obj\Debug\XAPK_Creator.CreatingXAPK.resources
+C:\Users\Stef\Documents\Visual Studio 2013\Projects\XAPK Creator\XAPK Creator\bin\Debug\XAPK Creator.exe.config
+C:\Users\Stef\Documents\Visual Studio 2013\Projects\XAPK Creator\XAPK Creator\bin\Debug\XAPK Creator.exe
+C:\Users\Stef\Documents\Visual Studio 2013\Projects\XAPK Creator\XAPK Creator\bin\Debug\XAPK Creator.pdb
+C:\Users\Stef\Documents\Visual Studio 2013\Projects\XAPK Creator\XAPK Creator\bin\Debug\XAPK Creator.xml
+C:\Users\Stef\Documents\Visual Studio 2013\Projects\XAPK Creator\XAPK Creator\obj\Debug\XAPK_Creator.Form1.resources
+C:\Users\Stef\Documents\Visual Studio 2013\Projects\XAPK Creator\XAPK Creator\obj\Debug\XAPK_Creator.Resources.resources
+C:\Users\Stef\Documents\Visual Studio 2013\Projects\XAPK Creator\XAPK Creator\obj\Debug\XAPK Creator.vbproj.GenerateResource.Cache
+C:\Users\Stef\Documents\Visual Studio 2013\Projects\XAPK Creator\XAPK Creator\obj\Debug\XAPK Creator.exe
+C:\Users\Stef\Documents\Visual Studio 2013\Projects\XAPK Creator\XAPK Creator\obj\Debug\XAPK Creator.xml
+C:\Users\Stef\Documents\Visual Studio 2013\Projects\XAPK Creator\XAPK Creator\obj\Debug\XAPK Creator.pdb
+C:\Users\Stef\Documents\Visual Studio 2013\Projects\XAPK Creator\XAPK Creator\obj\Debug\XAPK_Creator.DecompileManifest.resources
+C:\Users\Stef\Documents\Visual Studio 2013\Projects\XAPK Creator\XAPK Creator\obj\Debug\XAPK Creator.vbprojResolveAssemblyReference.cache
+C:\Users\Stef\Documents\Visual Studio 2013\Projects\XAPK Creator\XAPK Creator\obj\Debug\XAPK_Creator.AboutBox.resources
