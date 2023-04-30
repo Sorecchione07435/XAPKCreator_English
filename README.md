@@ -22,6 +22,8 @@ And to create your own XAPK you will need the easily obtainable files
 - The application icon (in PNG format) (Obtainable from the APK) (Carefully examine the "res" folder inside the APK)
 - The decompiled AndroidManifest.xml file (Obtainable from the APK) (To get the information of the application/game)
 
+All created XAPKs will be stored in the "XAPKs" folder
+
 The good thing about this tool is that you can create an XAPK from any APK and OBB downloaded from the internet
 
 ### Platforms
