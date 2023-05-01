@@ -6,7 +6,7 @@ XAPK Creator is a small free and open source written in Visual Basic tool for cr
 
 This software can be useful for many reasons:
 
-### Reasons:
+### Advantages:
 
 - Useful if you can't manually install APK and OBB on your phone because you can't access "Android/obb" folder Android 11+ problem
 - You can keep APK and OBB in one file
