@@ -1,7 +1,5 @@
 # XAPK Creator (English Release)
 
-#
-
 XAPK Creator is a small free and open source written in Visual Basic tool for creating installable XAPK files on Android.
 
 This software can be useful for many reasons:
