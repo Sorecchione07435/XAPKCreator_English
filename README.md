@@ -9,7 +9,7 @@ This software can be useful for many reasons:
 ### Advantages:
 
 - Useful if you can't manually install APK and OBB on your phone because you can't access "Android/obb" folder Android 11+ problem
-- You can keep APK and OBB in one file
+- You can keep APK and OBB in one file (APK + OBB = XAPK)
 - You can create XAPKs without coding
 - The tool also allows you to decompile AndroidManifest.xml files without downloading any other programs
 
