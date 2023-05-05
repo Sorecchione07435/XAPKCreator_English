@@ -45,7 +45,7 @@ This is because the tool tries to understand if the selected APK is that of the 
 ![a3](https://user-images.githubusercontent.com/111366201/235431273-bd141ea1-95b0-400a-9edb-ebf9e719e27a.png)
 
 
-### Come installare l'XAPK creato su Android
+### How to install created APK on Android
 
 You will need an application on the Play Store: https://play.google.com/store/apps/details?id=io.apkmody.sai
 
