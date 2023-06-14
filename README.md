@@ -47,12 +47,10 @@ This is because the tool tries to understand if the selected APK is that of the 
 
 ### How to install created XAPK on Android
 
-You will need an application on the Play Store: https://play.google.com/store/apps/details?id=io.apkmody.sai
-
-is once started select your XAPK copied from the computer to the device, select all resources of the XAPK and the application will be installed.
+Unfortunately, it has been discovered that installing XAPK files created with this program does not install correctly!, manual installation is recommended
 
 ### Download it
 
 If you are interested in this tool you can download from the Releases
 
-To download the tool go to the Releases page: https://github.com/Sorecchione07435/XAPKCreator_English/releases
+To download the tool go to the Releases page: https://github.com/Sorecchione07435/XAPKCreator_English/releases/download/xapk/XAPK.Creator.zip
