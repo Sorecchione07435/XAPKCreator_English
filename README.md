@@ -51,6 +51,5 @@ Unfortunately, it has been discovered that installing XAPK files created with th
 
 ### Download it
 
-If you are interested in this tool you can download from the Releases
-
+If you are interested in this tool you can download here:
 To download the tool go to the Releases page: https://github.com/Sorecchione07435/XAPKCreator_English/releases/download/xapk/XAPK.Creator.zip
