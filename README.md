@@ -56,3 +56,4 @@ Unfortunately the XAPK Creator project has been discontinued, it will be reintro
 This implies that it will no longer be available for download until a stable version is developed
 
 However, if you want to download it out of necessity, here is a fairly functional version: [Download XAPK Viewer OLD](http://sorecchione07.altervista.org/Downloads-URLS/XAPK%20Creator/old/XAPK_Creator.exe)
+Also download the AndroidManifest.xml decompiler: [Download](http://sorecchione07.altervista.org/Downloads-URLS/XAPK%20Creator/old/axmldec.exe)
