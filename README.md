@@ -51,7 +51,7 @@ Unfortunately, it has been discovered that installing XAPK files created with th
 
 ### Download it
 
-Unfortunately the XAPK Creator project has been discontinued, it will be reintroduced soon
+Unfortunately the XAPK Creator project has been discontinued
 
 This implies that it will no longer be available for download until a stable version is developed
 
